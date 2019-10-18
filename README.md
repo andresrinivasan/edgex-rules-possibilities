@@ -8,7 +8,7 @@ As of this writing, the [EdgeX Rules Engine](https://docs.edgexfoundry.org/Ch-Ru
 
 # Options
 
-See PDF in this repo
+See [the PDF](possibilities-for-rules-engine-replacement.pdf) in this repo
 
 # Running the Examples
 
