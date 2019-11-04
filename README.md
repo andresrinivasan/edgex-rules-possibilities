@@ -1,6 +1,6 @@
 # EdgeX Rules Possibilities
 
-A brief exploration of options for the [EdgeX](edgex.discourse.group) Rules Engine
+A brief exploration of options for the [EdgeX](https://github.com/andresrinivasan/edgex-rules-possibilities/blob/master/possibilities-for-rules-engine-replacement.pdf) Rules Engine
 
 # Summary
 
